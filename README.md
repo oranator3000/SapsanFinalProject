@@ -1,3 +1,2 @@
-# spring-security-jwt
+# Final Project
 
-Created special for [video tutorial](https://youtu.be/B03UruvOl30)
